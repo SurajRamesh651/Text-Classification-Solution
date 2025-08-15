@@ -1,0 +1,16 @@
+Loading data...
+Cleaning text data...
+Training model on a subset of data for validation...
+Validation F1-score (macro): 0.8146
+Final Score (as per competition): 81.46
+
+Retraining model on the full training data for final predictions...
+
+Submission file 'submission.csv' created successfully!
+First 5 rows of the generated submission file:
+          ID            Subject
+0  test_0001             Gaming
+1  test_0002        Pop Culture
+2  test_0003  Computer Sciences
+3  test_0004          Geography
+4  test_0005        Pop Culture
